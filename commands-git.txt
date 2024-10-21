@@ -1,0 +1,7 @@
+Clone :
+- git clone <url_github>
+
+3 commandes de push :
+- git add .
+- git commit -m "mon_message"
+- git push
